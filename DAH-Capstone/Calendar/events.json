@@ -1,0 +1,58 @@
+[
+    {
+        "event_id": "2500",
+        "title": "Winter Kiswa Bazaar",
+        "description": "Bazaar for families in need to shop from the clothes donated by university students and staff.",
+        "start_date": "2025-01-23",
+        "end_date": "2025-01-23",
+        "location": "DAH Atrium",
+        "categories": [
+            "Volunteer",
+            "Engineering",
+            "Architechture"
+        ],
+        "archived": false
+    },
+    {
+        "event_id": "2501",
+        "title": "Internship Workshop",
+        "description": "Workshop by senior CS student to share and guide students on how to get an internship and other relevant details",
+        "start_date": "2025-2-4",
+        "end_date": "2025-02-04",
+        "location": "Hall 068",
+        "categories": [
+            "Engineering",
+            "Workshop"
+        ],
+        "archived": false
+    },
+    {
+        "event_id": "2502",
+        "title": "Foreshadow Book Signing",
+        "description": "Leena Althekair will sign copies of her novel and sell them.",
+        "start_date": "2025-02-02",
+        "end_date": "20205-02-02",
+        "location": "Student Council Office",
+        "categories": [
+            "Student Council",
+            "Engineering",
+            "Clubs"
+        ],
+        "archived": false
+    },
+    {
+        "event_id": "2503",
+        "title": "Culture Day",
+        "description": "Celebrate different cultures in the university and celebrate diversity",
+        "start_date": "2025-01-01",
+        "end_date": "2025-01-01",
+        "location": "Atrium",
+        "created_by_admin": "Ms Mariah Keshaifaty",
+        "categories": [
+            "Volunteer",
+            "Student Council",
+            "Clubs"
+        ],
+        "archived": false
+    }
+]

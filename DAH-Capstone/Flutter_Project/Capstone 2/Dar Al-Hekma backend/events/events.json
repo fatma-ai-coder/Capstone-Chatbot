@@ -1,0 +1,85 @@
+[
+    {
+        "event_id": "2500",
+        "title": "CCTS",
+        "description": "Dar Al-Hekma University is honored to host the 2nd International Conference on Creativity, Technology, and Sustainability on April 30 – May 1, 2025, in partnership with the Ministry of Communications and Information Technology and the Ministry of Environment, Water and Agriculture. The event will feature keynote sessions, Springer-published research papers, scientific posters, workshops, startup stories, and the Smart Legal Advisor Challenge. It will conclude with an award ceremony and guided tours of the DAHU CODE Lab.",
+        "start_date": "2025-04-31",
+        "end_date": "2025-05-01",
+        "location": "DAH Atrium",
+        "categories": [
+            "Volunteer",
+            "Computer Science",
+            "Architecture"
+        ],
+        "archived": false,
+        "time": "9:00 AM - 5:00 PM",
+        "image": "CCTS.png"
+
+    },
+    {
+        "event_id": "2501",
+        "title": "IEEE Workshop",
+        "description": "Join our customized IEEE Xplore training session and learn how to search like a pro! Discover the most-cited and most-downloaded papers in your field, stay updated with top research from global experts, set personalized alerts, and use time-saving tools to save and share your findings. Perfect for both new and experienced users.",
+        "start_date": "2025-03-03",
+        "end_date": "2025-03-03",
+        "location": "Online",
+        "categories": [
+            "Computer Science",
+            "Workshop", 
+            "Online"
+        ],
+        "archived": false,
+        "time": "1:00 PM - 2:00 PM",
+        "image": "IEEE_Workshop.jpg"
+
+    },
+    {
+        "event_id": "2502",
+        "title": "Explore the World & Make a Difference",
+        "description": "هل فكرت يومًا في دمج السفر مع التطوع؟ انضم إلى لقائنا التعريفي مع فريق ڤولار وتعرّف على كيف نحول التطوع والسفر إلى تجارب تُغيّر الحياة حول العال ",
+        "start_date": "2025-02-02",
+        "end_date": "2025-02-02",
+        "location": "Africa",
+        "categories": [
+            "Volunteer"
+        ],
+        "archived": false,
+        "time": "1:00 AM - 2:00 PM",
+        "image": "Explore_The_world.png"
+
+    },
+    {
+        "event_id": "2503",
+        "title": "Sustainability Club",
+        "description": "Celebrate Earth Day with Us!  From the Sustainability Club — Happy Earth Day!Today, we celebrate our beautiful planet and renew our commitment to protecting it.",
+        "start_date": "2025-04-15",
+        "end_date": "2025-01-15",
+        "location": "Online",
+        "created_by_admin": "Ms Mariah Keshaifaty",
+        "categories": [
+            "Clubs",
+             "Online"
+        ],
+        "archived": false,
+        "time": "1:00 AM - 2:00 PM",
+        "image": "Sustainability  Earth Day.png"
+
+    },
+    {
+        "event_id": "2504",
+        "title": "Creative Explosion Workshop: “Build Your Own LEGO Robot",
+        "description": "Creative Explosion Workshop: 'Build Your Own LEGO Robot… and Bring It to Life!' Imagine this: You grab a handful of LEGO bricks You build, connect, program… and suddenly — your robot comes to life and follows your commands!",
+        "start_date": "2025-05-02",
+        "end_date": "2025-08-10",
+        "location": "Hall 068",
+        "created_by_admin": "Ms Mariah Keshaifaty",
+        "categories": [
+            "Computer Science",
+            "Clubs",
+            "Workshop"
+        ],
+        "archived": false,
+        "time": "1:00 AM - 2:00 PM",
+        "image": "lego_workshp.png"
+    }
+]

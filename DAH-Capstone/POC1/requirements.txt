@@ -1,0 +1,7 @@
+torch
+transformers
+faiss-cpu
+nltk
+pymupdf
+openai>=1.0.0
+numpy

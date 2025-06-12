@@ -1,0 +1,27 @@
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 884b7189-9023-4684-a351-c1f085929fbf, User Query: what is the attendence list, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 884b7189-9023-4684-a351-c1f085929fbf, AI Response: The attendance list typically refers to a document or record used by educational institutions to track the presence or absence of students in classes or other academic activities. This list helps ensure that students meet the attendance requirements set by the institution. It often includes the names of students, the date, and an indication of whether each student is present, absent, or tardy. The specific format and use of an attendance list may vary depending on the policies outlined in a student handbook or institutional guidelines. 
+INFO:root:Session ID: 9de004f3-d713-41ca-a166-166bfab502db, User Query: hello , Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9de004f3-d713-41ca-a166-166bfab502db, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: df194198-ce78-406b-95fb-8b471ec10307, User Query: hello, Model: gpt-4o
+INFO:root:Session ID: 470034f8-585d-46be-9dfe-309752805d36, User Query: hello, Model: gpt-4o
+INFO:root:Session ID: fd83ad3b-f05a-480d-b42d-43d58e3eeac4, User Query: helli, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: fd83ad3b-f05a-480d-b42d-43d58e3eeac4, AI Response: Hello! How can I assist you today?, Sources: []
+INFO:root:Session ID: fd83ad3b-f05a-480d-b42d-43d58e3eeac4, User Query: what is the rules for attendence, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: fd83ad3b-f05a-480d-b42d-43d58e3eeac4, AI Response: The specific rules for class attendance are not detailed in the context provided. However, it is common for a student handbook to address attendance policies, typically requiring students to regularly attend classes and participate in scheduled activities. These policies often outline acceptable reasons for absences, such as medical issues, and may include guidelines on notifying instructors about absences. 
+
+For precise rules, it would be best to consult the specific section of your student handbook dedicated to class attendance or contact your institution's administrative office for detailed information. If you have questions about a particular aspect of attendance, feel free to ask!, Sources: []

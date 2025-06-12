@@ -1,0 +1,23 @@
+# config.yaml
+# MongoDB Configuration
+mongo_connection_str: "mongodb://localhost:27017"
+database_name: "knowledge_base"
+collection_name: "documents"
+
+# OpenAI Configuration
+model_name: "gpt-4"  # or "gpt-4" if you have access
+openai_api_key: "sk--iIesrgwskbU4s1HxtelBn1sRt3bUvi9Tv2Dpu02M0T3BlbkFJ7aal4rANaVqWXRSI72klvx4Q4Zg7DiLslKikzi_8wA"
+temperature: 0.3
+
+
+
+# sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+# intfloat/e5-small-v2
+# intfloat/multilingual-e5-large
+
+# Embedding Model Configuration
+embedding_model: "BAAI/bge-large-en-v1.5"
+
+# Retrieval Configuration
+retrieval_k: 8
+similarity_threshold: 0.1
