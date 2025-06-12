@@ -89,6 +89,7 @@ Both were evaluated on real student questions to ensure accuracy, robustness, an
 
 📄 **Full Report**  
 To learn more about the system architecture, evaluation, and development process, you can read the full Capstone Report here:  
-📎 [AskDAH Report (DOCX)](https://github.com/fatma-ai-coder/Capstone-Chatbot/raw/main/Ask_DAH_Report.pdf)
+📎 [AskDAH Report (DOCX)](https://github.com/fatma-ai-coder/Capstone-Chatbot/raw/main/Ask_DAH_Report.pdf
+)
 
 ---
