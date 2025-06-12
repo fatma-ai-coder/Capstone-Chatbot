@@ -1,8 +1,6 @@
 # 🧠 AskDAH – AI-Powered University Chatbot App  
 _Transforming Student Services at Dar Al-Hekma University using Generative AI and Flutter_
-
 ![AskDAH App Screenshot](https://raw.githubusercontent.com/fatma-ai-coder/Capstone-Chatbot/main/App_SC.png)
-
 ---
 
 📚 **Project Overview**  
@@ -94,9 +92,3 @@ To learn more about the system architecture, evaluation, and development process
 📎 [AskDAH Report (DOCX)](https://github.com/fatma-ai-coder/Capstone-Chatbot/blob/main/Ask_DAH_Report.pdf )
 
 ---
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch the notebook
-jupyter notebook
