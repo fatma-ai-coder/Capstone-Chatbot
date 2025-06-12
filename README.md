@@ -1,5 +1,6 @@
 # 🧠 AskDAH – AI-Powered University Chatbot App  
 _Transforming Student Services at Dar Al-Hekma University using Generative AI and Flutter_
+
 ![AskDAH App Screenshot](https://raw.githubusercontent.com/fatma-ai-coder/Capstone-Chatbot/main/App_SC.png)
 ---
 
